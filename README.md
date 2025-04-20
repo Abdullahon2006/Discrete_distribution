@@ -52,7 +52,8 @@ Where:
 
 ## Visual Explanation
 
-![Discrete Distribution Sampling](discrete-distribution.png)
+<img src="discrete-distribution.png" width="500" height="158">
+
 
 The diagram shows how cumulative sums create intervals where each index's interval length corresponds to its weight.
 
